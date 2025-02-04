@@ -1,0 +1,402 @@
+Id,City,Rating,About the city (long Description),Best Time to visit
+1,Gangtok  ,4.6,"Incredibly alluring, pleasantly boisterous and wreathed in clouds - Gangtok, the capital of Sikkim, is one of the most popular hill stations in India. Lying at the height of 1650 m above sea level, the town during its bright sunny days offers spectacular views of Mt. Kanchenjunga. Gangtok is a base ...",Throughout the year
+2,Udaipur  ,4.6,"Udaipur, the ""City of Lakes,"" stands as a jewel in the crown of Rajasthan, India. Nestled amidst the Aravalli Range, this city captivates visitors with its regal charm, historic grandeur, and scenic landscapes. Located around stunning water lakes and enveloped by the Aravalli Hills in all direc...",October to March
+3,Gulmarg  ,4.4,"Situated at an altitude of 2730 m above sea level, Gulmarg is a popular skiing destination located in Pir Panjal Range of Union territory of Jammu and Kashmir. Surrounded by snow-covered lofty Himalayas, meadows of flowers, deep ravines, evergreen forested valleys, Gulmarg also has the world's secon...",October to June
+4,Agra  ,4.9,"Located on the banks of River Yamuna in Uttar Pradesh, Agra is a popular tourist destination as it is home to one of the 7 wonders of the world, the Taj Mahal. It is a sneak peek into the architectural history and legacy of the Mughal empire with two other UNESCO World Heritage S...",October to March
+5,Andaman and Nicobar,4.6,"Replete with turquoise blue water beaches and a bit of history, Andaman & Nicobar Islands is a little slice of paradise tucked around 1,400 km away from the east coast of mainland India. Port Blair, the capital of this union territory, has a major airport and seaport connected with the rest of t...",October to Jun
+6,Manali  ,4.8,"With spectacular valleys, breathtaking views, snowcapped mountains, and lush forests of oak, deodar, and pine, Manali is a magical hill station at the northern end of Kullu valley in Himachal Pradesh. Gifted to the world by the mighty Himalayas, it is known to be one of the most popular destinations...",October to June
+7,Goa  ,4.9,"Lying on the western coast, Goa is India's smallest state and unlike any other, known for its endless beaches, stellar nightlife, eclectic seafood, world-heritage listed architecture. Spread across just 3,702 km, Goa lies in the Konkan region. It is a far cry from the hippie haven or ...",October to March
+8,Alleppey  ,4.8,"Officially called Alappuzha, Alleppey is known for its network of canals and lagoons with beautiful backwaters and the houseboats offering overnight stays. Located in the southern part of Kerala, the coastline of Alleppey offers some of the best beaches with water sports during the dry sea...",June to March
+9,Srinagar  ,4.2,"Famously known as 'Heaven on Earth, Srinagar is located in the union territory of Jammu & Kashmir, on the banks of river Jhelum. Known for its serene lakes, lush gardens, and Mughal-era architecture, Srinagar is a timeless destination that beckons travelers from around the world. Srinagar is kno...",April to October
+10,Amritsar  ,4.7,"Amritsar, colloquially known as Ambarsar, is a city steeped in history and spirituality. It stands as a prominent cultural and religious hub in the heart of Punjab, as the second largest city of India. The city is most renowned for the Golden Temple, the holiest shrine in Sikhism. The resplende...",October to March
+11,Shillong  ,4.2,"Nestled amidst the pine-clad hills, Shillong, the capital of Meghalaya, unfolds like a picturesque canvas at an elevation of 1496 meters. Revered as the 'Scotland of the East,' the city offers a delightful blend of captivating landscapes, pleasant weather, and rich traditions. Shillong derives its n...",September to May
+12,Munnar  ,4.2,"Famous for the tea estates, greenery, winding roads, blanket of mist, and viewpoints, Munnar is a hill station in Kerala, located in the Idukki district. Lying in the Western Ghats at 1600 metres, it is one of the most sought after and visited travel destinations globally, especially popular amongst...",September to May
+13,Jaipur  ,4.8,"Jaipur, the capital city of Rajasthan, stands as a jewel in the crown of the Golden Triangle, alongside Delhi and Agra. This enchanting city, often referred to as the ""Pink City,"" owes its nickname to the terracotta-pink hue that adorns many of its buildings. The Pink City is a testament to the roya...",November to March
+14,Ooty  ,4.5,"Nestled amidst Nilgiri hills, Ooty, also known as Udagamandalam, is a hill station in Tamil Nadu which serves as a top-rated tourist destination. Once regarded as the summer headquarters of the East India Company, the Queen of the hills is a picturesque getaway.",Throughout the year
+15,Darjeeling  ,4.8,"Darjeeling, the former summer capital of India under the British Raj, has evolved into one of India's most sought-after hill stations. This picturesque hill destination in West Bengal is ideal for a romantic honeymoon. Darjeeling, nestled among acres of tea estates, is 2,050 metres above sea level a...","February to March, September to December"
+16,Ladakh  ,4.7,"Ladakh, located in the northernmost region of India, is a high-altitude desert renowned for its breathtaking landscapes, serene monasteries, and unique cultural heritage. Formerly falling in the state of Jammu & Kashmir, Ladakh was administered a union territory on 31st October 2019. Extending f...",April - Mid-July
+17,Rishikesh  ,4.5,"Located in the foothills of the Himalayas along the convergence of Ganga and Chandrabhaga River, Rishikesh is a small town in the Dehradun district, located close to Haridwar in Uttarakhand. Rishikesh (also called as Hrishikesh) is known for its adventure activities, ancient temples, popular ca...",Throughout the year
+18,Delhi  ,4.7,"The capital of India, Delhi is a cosmopolitan city with a historic old Delhi and the modern New Delhi. From historical monuments to crowded shopping malls, from an extensive network of the modern metro system to Delhi University campus, Dilli has multiple personalities and is considered to be the ci...",October to March
+19,Char Dham Yatra,4.7,"Char Dham, which translates to ""four abodes,"" holds significant spiritual prominence in India. Located in the majestic state of Uttarakhand, this pilgrimage circuit encompasses four sacred sites: Yamunotri, Gangotri, Kedarnath, and Badrinath. Each of these destinations is deeply intertwined with Hin...","May - June, September - October"
+20,Varanasi  ,4.8,"World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras, is the spiritual capital of India. It is one of Hinduism's seven holy cities. The old city of Varanasi lies along the western banks of the Ganges, spread across a labyrinth of narrow galis. Be&...",October to March
+21,Coorg  ,4.2,"Located amidst imposing mountains in Karnataka with a perpetually misty landscape, Coorg is a popular coffee producing hill station. It is popular for its beautiful green hills and the streams cutting right through them. It also stands as a popular destination because of its culture and people....",October to March
+22,Mumbai  ,4.7,"Mumbai, the capital city of the Indian state of Maharashtra, is a spectacular paradox of chaos and hope, glamour and squalor, modernity and tradition. Famously known as the City of Dreams, Mumbai – formerly known as Bombay - Mumbai is a beautifully blended melting pot of cultures and lifestyles.",October to February
+23,Mcleodganj  ,4.2,"Mcleodganj, Himachal Pradesh is one of the most popular tourist destinations for it's tibetan culture, nature treks, greenery, ancient temples & monasteries, and british influence. Located in the Kangra district, it's on the outskirts of Dharamshala.Famous for being home to the Tibetan spir...",October to June
+24,Kashmir  ,4.6,"Popularly referred to as the ""Paradise on Earth,"" Kashmir is a breathtaking valley in Jammu & Kashmir union territory in 2019. Offering unique experiences year-round, it captivates visitors with Shikara rides and Mughal gardens in Srinagar during summers and autumn where the ...",September - November; March - May
+25,Jaisalmer  ,4.4,"Jaisalmer, a mesmerizing destination nestled in the heart of the Thar Desert, is a jewel in the crown of Rajasthan. Often referred to as the ""Golden City,"" Jaisalmer captivates visitors with its sandstone architecture, picturesque landscapes, and rich cultural heritage. The city is adorned with...",October to March
+26,Kodaikanal  ,4.0,"Located in the state of Tamil Nadu, Kodaikanal is one of the most famous honeymoon destinations in India. A Lakeside resort town of Tamil Nadu, Kodaikanal has a beautiful climate, mist-covered manicured cliffs and waterfall that come together to create the ideal setting for a perfect getaway. Kodaik...",September to May
+27,Nainital  ,4.4,"Nainital, a picturesque hill station in the Kumaon region of Uttarakhand, is known for its serene lakes, lush green hills, and pleasant climate. Located approximately 300 kilometers from Delhi, Nainital town is centered around the emerald-green Naini Lake, which offers boating opportunities aga...",Throughout the year
+28,Shimla  ,4.8,"Shimla is the capital of Himachal Pradesh and a popular hill-station among Indian families and honeymooners. Situated at the height of 2200m, it was the summer capital of British India. The hill station still retains its old-world charm with beautiful colonial architecture, pedestrian...",October to June
+29,Lakshadweep  ,4.0,"Formerly known as Laccadive Islands, Lakshadweep translates to 'one hundred thousand islands' in Malayalam. Home to a few of the most beautiful and exotic islands and beaches of India, Lakshadweep lies 400km off the southwest coast of the Arabian Sea. The smallest union territory of India has 3...",September to May
+30,Jodhpur  ,4.3,"Jodhpur, fondly known as the ""Blue City"" due to the indigo hues of its houses, is a historic city located in the heart of Rajasthan, India. Situated on the eastern edge of the Thar Desert, Jodhpur is renowned for its majestic Mehrangarh Fort, one of the largest forts in India, offering panoramic vie...",November to February
+31,Kolkata  ,4.7,"Kolkata, India's second biggest city, is a perpetually ongoing festival of human existence, concurrently luxurious and squalid, refined and frantic, pointedly futuristic, while beautifully in decay. A vibrant 350-year-old metropolis located on India's Eastern Coast, the capital of West Bengal thrive...",October to March
+32,Mussoorie  ,4.8,"Mussoorie, often referred to as the ""Queen of the Hills,"" is a picturesque hill station located in the Dehradun district of Uttarakhand, India. Perched at an altitude of approximately 2,000 meters (6,600 feet) above sea level, Mussoorie offers breathtaking views of the Shivalik ranges and the Doon V...",September to June
+33,Pondicherry  ,4.5,"Pondicherry, officially known as Puducherry, is a charming coastal town and one of the Union Territories of India, located on the southeastern coast, about 160 kilometers south of Chennai. Famous for its unique blend of French and Indian cultures, Pondicherry offers visitors a taste of its rich hist...",October to March
+34,Pahalgam  ,4.0,"Situated in the Anantnag district, about 90km away from Srinagar, Pahalgam is a beautiful hill station and a popular tourist attraction of Jammu & Kashmir. Pahalgam is located on the banks of the Liddar River, and the rugged terrains, green meadows, and snow-capped mountains make it a perfect sp...",Throughout the year
+35,Golden Triangle India,4.1,"The Golden Triangle, a popular tourist circuit in India, encompasses three of the country's most iconic cities: Delhi, Agra, and Jaipur. This triangular journey, marked by roughly equidistant points on the Indian map, promises a rich tapestry of history, culture, and architectural marvels. Spanning ...",October - March
+36,Varkala  ,4.5,"Varkala is a coastal town in the southern part of Kerala known for the unique 15m high 'Northern Cliff' adjacent to the Arabian Sea. Located approximately 50 kilometers north of Thiruvananthapuram (Trivandrum), the capital city of Kerala, Varkala offers a perfect blend of natural beauty, s...",October to February
+37,Kanyakumari  ,4.3,"Located at the southernmost tip of the Indian subcontinent, Kanyakumari is a captivating coastal town in the state of Tamil Nadu. Renowned for its breathtaking confluence of three vast water bodies – the Arabian Sea, the Bay of Bengal, and the Indian Ocean – Kanyakumari is celebrated for its stunnin...",October to February
+38,Dalhousie  ,4.6,"Dalhousie is a popular hill station spread out over five hills in Himachal Pradesh boasting views of the snow-capped peaks of the Dhauladhar ranges. Famous for its meadows, dense forests, and waterfalls, it is especially a favourite amongst honeymooners and family vacationers.",Throughout the year
+39,Vaishno Devi ,4.1,"Vaishno Devi is a temple town that's home to the famous Vaishno Devi Mandir. Located in Trikuta hills, 13 kms from Katra (in the union territory of Jammu and Kashmir); this renowned shrine allures millions of devotees from all over the world.  Popularly known as Mata Rani, Vaishnavi and Tr...",October to June
+40,Bangalore  ,4.7,"Having evolved gradually from being the Garden city to the Silicon Valley of India, Bangalore is India's third-largest city. Bangalore is loved for its pleasant weather, beautiful parks and the many lakes here. Bangalore is renowned for its eateries, street food corners, quirky cafes, coffee ro...",Throughout the year
+41,Chennai  ,4.3,"Formerly known as Madras, Chennai is the capital city of the state of Tamil Nadu, in the southern part of India. Located on the Coromandel coast of Bay of Bengal, Chennai is as dynamic as it is immersed in tradition. This 'capital of the south', is one among the four metropolitan siblings of In...",October to March
+42,Ajanta and Ellora,4.7,"Ajanta and Ellora caves, considered to be one of the finest examples of ancient rock-cut caves, are located near Aurangabad in Maharashtra, India. Ajanta and Ellora caves complex is adorned with beautiful sculptures, paintings, and frescoes and include Buddhist monasteries, Hindu and Jain temples. T...",June to March
+43,Shimoga (Shivamogga) ,4.4,"With nature in its full bloom, the town of Shimoga has been home to several great dynasties and kingdoms. Packed with several marvels of nature in the form of picturesque landscape, gorgeous waterfalls, mystical temples and lush green surroundings, its raw beauty will leave you absolutely enchanted....",July to December
+44,Visakhapatnam  ,4.6,"Visakhapatnam, also commonly known as Vizag, is one of the oldest port cities in the country. Situated in the heart of Andhra Pradesh, Vizag was announced as the state capital of Andhra Pradesh on January 31, 2023. The city is known for its picturesque beaches and serene landscape, as well as a...",September to March
+45,Jibhi  ,4.3,"Located in the serene valleys of Himachal Pradesh, Jibhi is a hidden gem that offers a tranquil retreat amidst nature's bounty. Situated in the Banjar Valley, Jibhi is known for its breathtaking landscapes, lush greenery, and serene ambiance, making it an ideal destination for those seeking solace a...",October to May
+46,Pune  ,4.7,"Pune is a bustling metropolis of Maharashtra, ranked number one in India in the ease of living. Often referred to as the Oxford of the East, it is a hub of diverse people and activities and is in rapidly growing into one of the top metropolitan cities in the country. Pune is a city that pe...",July to March
+47,Vrindavan  ,4.6,"One of the oldest cities on the banks of Yamuna, Vrindavan is considered to be one of the most important places of pilgrimage for the devotees of Krishna. It is said that Lord Krishna had spent his childhood in Vrindavan. The name of the city has been derived from Vrinda (meaning basil) and van (mea...",October to March
+48,Coimbatore  ,4.2,"Often termed as 'Manchester of South India', Coimbatore, the second-largest city in Tamil Nadu, photographically situated on the banks of River Noyyal. Coimbatore, also known as Kovai, is a welcoming area with the backdrop of hustle-bustle and charm of activity and industry. From ancient temple...",September to March
+49,Lucknow  ,4.1,"The capital and the largest city of Uttar Pradesh, Lucknow, situated on the banks of river Gomti, welcomes you with a heartwarming note of ""Muskuraiyein, kyunki aap Lucknow mein hai"". A city of kebabs and nawabs, of architecture and history, of literature and culture – that is Lucknow in a nuts...",October to March
+50,Dharamshala  ,4.3,"Dharamshala is a beautiful hill town in the Dhauladhar range of Himalayas. It is the winter capital of Himachal Pradesh and is located in the upper slopes of the Kangra valley. Once known as a british hill station during the colonial era, Dharamsala soon became occupied by Tibetan communities and is...",October to June
+51,Gwalior  ,4.1,"Gwalior is a historic city located in the state of Madhya Pradesh. Popular because of the hilltop fort, Gwalior is full of palaces and glorious temples giving this city a majestic charm which speaks volumes of its glorious past.",July to March
+52,Khandala  ,4.6,"Khandala is a popular hill station in Maharashtra, perched on the foothills of Sahyadri in the Western Ghats. Khandala provides for a perfect weekend respite for the Mumbai population, with its scenic valleys, grassy hills, serene lakes and misty waterfalls.",Throughout the year
+53,Kovalam  ,4.6,"Famous for its resorts and ayurvedic massage centres, Kovalam is a coastal town located around 13 km from Thiruvananthapuram in Kerala. The largest beach in Kovalam is the lighthouse beach that features a 30-metre tall lighthouse. The other two adjacent beaches are Samudra beach and Hawa beach....",September to March
+54,Madikeri  ,4.5,"Generally covered as a part of trips to Coorg, Madikeri is a hill town in Karnataka with vast coffee plantations, lush forests and misty hills, all culminating into a breathtaking view. Located in Kodagu District around 6 hours from Bengaluru, Madikeri is a perfect weekend getaway. There is no ...",February to September
+55,Matheran  ,4.1,"Nestled amidst the Sahyadri range on the Western Ghats, Matheran is a cosy little hill station that stands at an elevation of 2600 feet above sea level, and is just 100 kilometres away from Mumbai, making it the perfect weekend getaway. With its name literally translating to “overhead forest”, Mathe...",Throughout the year
+56,Kalimpong  ,4.2,"Kalimpong is a virgin hill station in West Bengal renowned for its panoramic valley views, Buddhists monasteries and churches and Tibetan handicrafts etc.","March to June, September to December"
+57,Thanjavur  ,4.2,"Also known as Tanjore or the city of temples, Thanjavur has a lot of cultural value and is known for its famous Tanjore paintings, antiques and handicrafts, textiles and saris , its Carnatic music and musical instruments and of course the temples.",October to March
+58,Neil Island ,4.5,"Neil Island, located in the Andaman and Nicobar archipelago, is a tranquil paradise known for its pristine beaches, crystal-clear waters, and vibrant coral reefs. With its laid-back atmosphere and natural beauty, Neil Island is a perfect getaway for those seeking a peaceful retreat. The island'...",October to February
+59,Jibhi  ,4.3,"Located in the serene valleys of Himachal Pradesh, Jibhi is a hidden gem that offers a tranquil retreat amidst nature's bounty. Situated in the Banjar Valley, Jibhi is known for its breathtaking landscapes, lush greenery, and serene ambiance, making it an ideal destination for those seeking solace a...",October to May
+60,Pune  ,4.7,"Pune is a bustling metropolis of Maharashtra, ranked number one in India in the ease of living. Often referred to as the Oxford of the East, it is a hub of diverse people and activities and is in rapidly growing into one of the top metropolitan cities in the country. Pune is a city that pe...",July to March
+61,Vrindavan  ,4.6,"One of the oldest cities on the banks of Yamuna, Vrindavan is considered to be one of the most important places of pilgrimage for the devotees of Krishna. It is said that Lord Krishna had spent his childhood in Vrindavan. The name of the city has been derived from Vrinda (meaning basil) and van (mea...",October to March
+62,Coimbatore  ,4.2,"Often termed as 'Manchester of South India', Coimbatore, the second-largest city in Tamil Nadu, photographically situated on the banks of River Noyyal. Coimbatore, also known as Kovai, is a welcoming area with the backdrop of hustle-bustle and charm of activity and industry. From ancient temple...",September to March
+63,Lucknow  ,4.1,"The capital and the largest city of Uttar Pradesh, Lucknow, situated on the banks of river Gomti, welcomes you with a heartwarming note of ""Muskuraiyein, kyunki aap Lucknow mein hai"". A city of kebabs and nawabs, of architecture and history, of literature and culture – that is Lucknow in a nuts...",October to March
+64,Dharamshala  ,4.3,"Dharamshala is a beautiful hill town in the Dhauladhar range of Himalayas. It is the winter capital of Himachal Pradesh and is located in the upper slopes of the Kangra valley. Once known as a british hill station during the colonial era, Dharamsala soon became occupied by Tibetan communities and is...",October to June
+65,Gwalior  ,4.1,"Gwalior is a historic city located in the state of Madhya Pradesh. Popular because of the hilltop fort, Gwalior is full of palaces and glorious temples giving this city a majestic charm which speaks volumes of its glorious past.",July to March
+66,Khandala  ,4.6,"Khandala is a popular hill station in Maharashtra, perched on the foothills of Sahyadri in the Western Ghats. Khandala provides for a perfect weekend respite for the Mumbai population, with its scenic valleys, grassy hills, serene lakes and misty waterfalls.",Throughout the year
+67,Kovalam  ,4.6,"Famous for its resorts and ayurvedic massage centres, Kovalam is a coastal town located around 13 km from Thiruvananthapuram in Kerala. The largest beach in Kovalam is the lighthouse beach that features a 30-metre tall lighthouse. The other two adjacent beaches are Samudra beach and Hawa beach....",September to March
+68,Madikeri  ,4.5,"Generally covered as a part of trips to Coorg, Madikeri is a hill town in Karnataka with vast coffee plantations, lush forests and misty hills, all culminating into a breathtaking view. Located in Kodagu District around 6 hours from Bengaluru, Madikeri is a perfect weekend getaway. There is no ...",February to September
+69,Matheran  ,4.1,"Nestled amidst the Sahyadri range on the Western Ghats, Matheran is a cosy little hill station that stands at an elevation of 2600 feet above sea level, and is just 100 kilometres away from Mumbai, making it the perfect weekend getaway. With its name literally translating to “overhead forest”, Mathe...",Throughout the year
+70,Kalimpong  ,4.2,"Kalimpong is a virgin hill station in West Bengal renowned for its panoramic valley views, Buddhists monasteries and churches and Tibetan handicrafts etc.","March to June, September to December"
+71,Thanjavur  ,4.2,"Also known as Tanjore or the city of temples, Thanjavur has a lot of cultural value and is known for its famous Tanjore paintings, antiques and handicrafts, textiles and saris , its Carnatic music and musical instruments and of course the temples.",October to March
+72,City 72,3.5,City 72 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+73,City 73,3.6,City 73 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+74,City 74,3.7,City 74 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+75,City 75,3.8,City 75 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+76,City 76,3.9,City 76 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+77,City 77,4.0,City 77 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+78,City 78,4.1,City 78 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+79,City 79,4.2,City 79 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+80,City 80,4.3,City 80 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+81,City 81,4.4,City 81 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+82,City 82,4.5,City 82 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+83,City 83,4.6,City 83 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+84,City 84,4.7,City 84 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+85,City 85,4.8,City 85 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+86,City 86,4.9,City 86 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+87,City 87,3.5,City 87 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+88,City 88,3.6,City 88 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+89,City 89,3.7,City 89 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+90,City 90,3.8,City 90 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+91,City 91,3.9,City 91 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+92,City 92,4.0,City 92 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+93,City 93,4.1,City 93 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+94,City 94,4.2,City 94 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+95,City 95,4.3,City 95 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+96,City 96,4.4,City 96 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+97,City 97,4.5,City 97 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+98,City 98,4.6,City 98 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+99,City 99,4.7,City 99 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+100,City 100,4.8,City 100 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+101,City 101,4.9,City 101 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+102,City 102,3.5,City 102 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+103,City 103,3.6,City 103 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+104,City 104,3.7,City 104 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+105,City 105,3.8,City 105 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+106,City 106,3.9,City 106 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+107,City 107,4.0,City 107 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+108,City 108,4.1,City 108 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+109,City 109,4.2,City 109 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+110,City 110,4.3,City 110 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+111,City 111,4.4,City 111 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+112,City 112,4.5,City 112 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+113,City 113,4.6,City 113 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+114,City 114,4.7,City 114 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+115,City 115,4.8,City 115 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+116,City 116,4.9,City 116 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+117,City 117,3.5,City 117 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+118,City 118,3.6,City 118 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+119,City 119,3.7,City 119 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+120,City 120,3.8,City 120 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+121,City 121,3.9,City 121 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+122,City 122,4.0,City 122 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+123,City 123,4.1,City 123 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+124,City 124,4.2,City 124 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+125,City 125,4.3,City 125 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+126,City 126,4.4,City 126 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+127,City 127,4.5,City 127 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+128,City 128,4.6,City 128 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+129,City 129,4.7,City 129 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+130,City 130,4.8,City 130 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+131,City 131,4.9,City 131 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+132,City 132,3.5,City 132 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+133,City 133,3.6,City 133 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+134,City 134,3.7,City 134 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+135,City 135,3.8,City 135 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+136,City 136,3.9,City 136 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+137,City 137,4.0,City 137 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+138,City 138,4.1,City 138 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+139,City 139,4.2,City 139 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+140,City 140,4.3,City 140 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+141,City 141,4.4,City 141 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+142,City 142,4.5,City 142 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+143,City 143,4.6,City 143 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+144,City 144,4.7,City 144 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+145,City 145,4.8,City 145 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+146,City 146,4.9,City 146 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+147,City 147,3.5,City 147 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+148,City 148,3.6,City 148 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+149,City 149,3.7,City 149 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+150,City 150,3.8,City 150 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+151,City 151,3.9,City 151 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+152,City 152,4.0,City 152 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+153,City 153,4.1,City 153 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+154,City 154,4.2,City 154 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+155,City 155,4.3,City 155 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+156,City 156,4.4,City 156 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+157,City 157,4.5,City 157 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+158,City 158,4.6,City 158 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+159,City 159,4.7,City 159 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+160,City 160,4.8,City 160 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+161,City 161,4.9,City 161 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+162,City 162,3.5,City 162 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+163,City 163,3.6,City 163 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+164,City 164,3.7,City 164 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+165,City 165,3.8,City 165 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+166,City 166,3.9,City 166 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+167,City 167,4.0,City 167 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+168,City 168,4.1,City 168 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+169,City 169,4.2,City 169 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+170,City 170,4.3,City 170 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+171,City 171,4.4,City 171 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+172,City 172,4.5,City 172 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+173,City 173,4.6,City 173 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+174,City 174,4.7,City 174 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+175,City 175,4.8,City 175 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+176,City 176,4.9,City 176 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+177,City 177,3.5,City 177 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+178,City 178,3.6,City 178 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+179,City 179,3.7,City 179 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+180,City 180,3.8,City 180 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+181,City 181,3.9,City 181 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+182,City 182,4.0,City 182 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+183,City 183,4.1,City 183 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+184,City 184,4.2,City 184 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+185,City 185,4.3,City 185 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+186,City 186,4.4,City 186 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+187,City 187,4.5,City 187 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+188,City 188,4.6,City 188 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+189,City 189,4.7,City 189 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+190,City 190,4.8,City 190 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+191,City 191,4.9,City 191 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+192,City 192,3.5,City 192 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+193,City 193,3.6,City 193 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+194,City 194,3.7,City 194 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+195,City 195,3.8,City 195 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+196,City 196,3.9,City 196 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+197,City 197,4.0,City 197 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+198,City 198,4.1,City 198 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+199,City 199,4.2,City 199 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+200,City 200,4.3,City 200 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+201,City 201,4.4,City 201 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+202,City 202,4.5,City 202 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+203,City 203,4.6,City 203 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+204,City 204,4.7,City 204 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+205,City 205,4.8,City 205 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+206,City 206,4.9,City 206 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+207,City 207,3.5,City 207 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+208,City 208,3.6,City 208 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+209,City 209,3.7,City 209 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+210,City 210,3.8,City 210 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+211,City 211,3.9,City 211 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+212,City 212,4.0,City 212 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+213,City 213,4.1,City 213 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+214,City 214,4.2,City 214 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+215,City 215,4.3,City 215 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+216,City 216,4.4,City 216 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+217,City 217,4.5,City 217 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+218,City 218,4.6,City 218 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+219,City 219,4.7,City 219 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+220,City 220,4.8,City 220 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+221,City 221,4.9,City 221 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+222,City 222,3.5,City 222 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+223,City 223,3.6,City 223 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+224,City 224,3.7,City 224 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+225,City 225,3.8,City 225 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+226,City 226,3.9,City 226 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+227,City 227,4.0,City 227 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+228,City 228,4.1,City 228 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+229,City 229,4.2,City 229 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+230,City 230,4.3,City 230 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+231,City 231,4.4,City 231 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+232,City 232,4.5,City 232 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+233,City 233,4.6,City 233 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+234,City 234,4.7,City 234 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+235,City 235,4.8,City 235 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+236,City 236,4.9,City 236 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+237,City 237,3.5,City 237 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+238,City 238,3.6,City 238 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+239,City 239,3.7,City 239 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+240,City 240,3.8,City 240 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+241,City 241,3.9,City 241 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+242,City 242,4.0,City 242 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+243,City 243,4.1,City 243 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+244,City 244,4.2,City 244 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+245,City 245,4.3,City 245 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+246,City 246,4.4,City 246 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+247,City 247,4.5,City 247 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+248,City 248,4.6,City 248 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+249,City 249,4.7,City 249 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+250,City 250,4.8,City 250 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+251,City 251,4.9,City 251 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+252,City 252,3.5,City 252 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+253,City 253,3.6,City 253 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+254,City 254,3.7,City 254 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+255,City 255,3.8,City 255 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+256,City 256,3.9,City 256 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+257,City 257,4.0,City 257 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+258,City 258,4.1,City 258 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+259,City 259,4.2,City 259 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+260,City 260,4.3,City 260 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+261,City 261,4.4,City 261 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+262,City 262,4.5,City 262 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+263,City 263,4.6,City 263 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+264,City 264,4.7,City 264 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+265,City 265,4.8,City 265 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+266,City 266,4.9,City 266 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+267,City 267,3.5,City 267 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+268,City 268,3.6,City 268 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+269,City 269,3.7,City 269 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+270,City 270,3.8,City 270 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+271,City 271,3.9,City 271 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+272,City 272,4.0,City 272 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+273,City 273,4.1,City 273 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+274,City 274,4.2,City 274 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+275,City 275,4.3,City 275 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+276,City 276,4.4,City 276 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+277,City 277,4.5,City 277 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+278,City 278,4.6,City 278 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+279,City 279,4.7,City 279 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+280,City 280,4.8,City 280 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+281,City 281,4.9,City 281 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+282,City 282,3.5,City 282 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+283,City 283,3.6,City 283 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+284,City 284,3.7,City 284 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+285,City 285,3.8,City 285 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+286,City 286,3.9,City 286 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+287,City 287,4.0,City 287 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+288,City 288,4.1,City 288 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+289,City 289,4.2,City 289 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+290,City 290,4.3,City 290 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+291,City 291,4.4,City 291 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+292,City 292,4.5,City 292 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+293,City 293,4.6,City 293 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+294,City 294,4.7,City 294 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+295,City 295,4.8,City 295 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+296,City 296,4.9,City 296 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+297,City 297,3.5,City 297 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+298,City 298,3.6,City 298 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+299,City 299,3.7,City 299 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+300,City 300,3.8,City 300 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+301,City 301,3.9,City 301 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+302,City 302,4.0,City 302 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+303,City 303,4.1,City 303 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+304,City 304,4.2,City 304 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+305,City 305,4.3,City 305 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+306,City 306,4.4,City 306 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+307,City 307,4.5,City 307 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+308,City 308,4.6,City 308 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+309,City 309,4.7,City 309 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+310,City 310,4.8,City 310 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+311,City 311,4.9,City 311 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+312,City 312,3.5,City 312 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+313,City 313,3.6,City 313 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+314,City 314,3.7,City 314 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+315,City 315,3.8,City 315 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+316,City 316,3.9,City 316 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+317,City 317,4.0,City 317 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+318,City 318,4.1,City 318 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+319,City 319,4.2,City 319 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+320,City 320,4.3,City 320 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+321,City 321,4.4,City 321 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+322,City 322,4.5,City 322 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+323,City 323,4.6,City 323 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+324,City 324,4.7,City 324 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+325,City 325,4.8,City 325 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+326,City 326,4.9,City 326 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+327,City 327,3.5,City 327 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+328,City 328,3.6,City 328 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+329,City 329,3.7,City 329 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+330,City 330,3.8,City 330 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+331,City 331,3.9,City 331 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+332,City 332,4.0,City 332 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+333,City 333,4.1,City 333 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+334,City 334,4.2,City 334 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+335,City 335,4.3,City 335 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+336,City 336,4.4,City 336 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+337,City 337,4.5,City 337 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+338,City 338,4.6,City 338 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+339,City 339,4.7,City 339 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+340,City 340,4.8,City 340 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+341,City 341,4.9,City 341 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+342,City 342,3.5,City 342 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+343,City 343,3.6,City 343 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+344,City 344,3.7,City 344 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+345,City 345,3.8,City 345 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+346,City 346,3.9,City 346 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+347,City 347,4.0,City 347 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+348,City 348,4.1,City 348 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+349,City 349,4.2,City 349 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+350,City 350,4.3,City 350 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+351,City 351,4.4,City 351 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+352,City 352,4.5,City 352 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+353,City 353,4.6,City 353 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+354,City 354,4.7,City 354 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+355,City 355,4.8,City 355 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+356,City 356,4.9,City 356 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+357,City 357,3.5,City 357 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+358,City 358,3.6,City 358 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+359,City 359,3.7,City 359 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+360,City 360,3.8,City 360 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+361,City 361,3.9,City 361 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+362,City 362,4.0,City 362 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+363,City 363,4.1,City 363 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+364,City 364,4.2,City 364 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+365,City 365,4.3,City 365 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+366,City 366,4.4,City 366 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+367,City 367,4.5,City 367 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+368,City 368,4.6,City 368 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+369,City 369,4.7,City 369 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+370,City 370,4.8,City 370 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+371,City 371,4.9,City 371 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+372,City 372,3.5,City 372 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+373,City 373,3.6,City 373 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+374,City 374,3.7,City 374 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+375,City 375,3.8,City 375 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+376,City 376,3.9,City 376 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+377,City 377,4.0,City 377 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+378,City 378,4.1,City 378 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+379,City 379,4.2,City 379 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+380,City 380,4.3,City 380 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+381,City 381,4.4,City 381 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+382,City 382,4.5,City 382 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+383,City 383,4.6,City 383 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+384,City 384,4.7,City 384 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+385,City 385,4.8,City 385 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+386,City 386,4.9,City 386 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+387,City 387,3.5,City 387 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+388,City 388,3.6,City 388 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+389,City 389,3.7,City 389 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+390,City 390,3.8,City 390 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+391,City 391,3.9,City 391 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+392,City 392,4.0,City 392 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+393,City 393,4.1,City 393 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+394,City 394,4.2,City 394 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+395,City 395,4.3,City 395 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+396,City 396,4.4,City 396 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+397,City 397,4.5,City 397 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+398,City 398,4.6,City 398 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+399,City 399,4.7,City 399 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
+400,City 400,4.8,City 400 is a beautiful destination known for its unique landscapes and cultural heritage.,Throughout the year
+401,City 401,4.9,City 401 is a beautiful destination known for its unique landscapes and cultural heritage.,October to March
